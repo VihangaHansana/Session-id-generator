@@ -57,21 +57,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by UCHIHA CLAN*
+*_Pair Code Connected by VIHANGA HANSANA*
 *_Made With 🚬🗿_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ITACHI UCHIHA 』*
+║ *『 AMAZING YOU'VE CHOSEN NIKI BOT』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com_
-║❒ *Owner:* _https://wa.me/2349066528353_
-║❒ *Repo:* _https://github.com/DeeCeeXxx/Itachi-Uchiha
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+║❒ *Ytube:* _youtube.com/@vihanga_de_silva_
+║❒ *Owner:* _https://wa.me/94759504894_
+║❒ *Repo:* _https://github.com/Vihanga-Hansana
+║❒ *WaGroup:* _https://chat.whatsapp.com/JxUCHxCNpgE8RI29yDAuMm
+║❒ *WaChannel:* 
 ╚════════════════════════╝
 _____________________________________
 
